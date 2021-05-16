@@ -1,6 +1,6 @@
 {
-    "name": "connect2me",
-    "short_name": "connect2me",
+    "name": "alysa_iot",
+    "short_name": "alysa_iot",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
