@@ -3,17 +3,20 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "624faa620896f297d8bfc322e1762cc4",
+  "assets/AssetManifest.json": "51fa1db6ad1eedbc8b9ef58767030b69",
 "assets/assets/fonts/digital.ttf": "1e670d88b23c7ab956f1829e3828a210",
+"assets/assets/images/device.png": "c99045952f9b70b47c0eebe0d1d66724",
 "assets/assets/images/heart.png": "e056db981c83988c7a1b37b511b3a71e",
 "assets/assets/images/lightbulb.svg": "58c1d842950c9aae78818c208b9d9be7",
+"assets/assets/images/location.png": "1011534bd21936333b8fe33a7ca8d6ef",
 "assets/assets/images/run.png": "f80a05a1248d339da3316ff1c1fea95e",
 "assets/assets/images/running.png": "3a1e5e588d15f060d6195287d0344d84",
 "assets/assets/images/Standingman.png": "1a6824854abc1445e5bb954ba5a39bc6",
 "assets/assets/images/sun.png": "c6d14eb296840d4837d33e71f400f16f",
+"assets/assets/images/users.png": "9ff4e224fb4c8e6eaef82e5fa74a7887",
 "assets/FontManifest.json": "7924836e74d3c0658c70d56cb97f1788",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "2b7948e0edee140c75e4c6b4a88b9f72",
+"assets/NOTICES": "b6a6d4b8a0c8adf1a0faa70cb77d4f14",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/packages/flutter_icons/fonts/AntDesign.ttf": "3a2ba31570920eeb9b1d217cabe58315",
 "assets/packages/flutter_icons/fonts/Entypo.ttf": "744ce60078c17d86006dd0edabcd59a7",
@@ -36,9 +39,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "614031a8c9448986db3b71a661cc551f",
-"/": "614031a8c9448986db3b71a661cc551f",
-"main.dart.js": "454c52f37f238b46ece94402a09a7593",
+"index.html": "0d4be767a1a1b1d5d34d162ac6543457",
+"/": "0d4be767a1a1b1d5d34d162ac6543457",
+"main.dart.js": "fad39cd1a28dade5a03817886410de14",
 "manifest.json": "d122747ca76a95150183a39eb4885c0b",
 "version.json": "9162319e075c126e8d5d10f47bf2c0df"
 };
