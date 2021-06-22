@@ -62132,7 +62132,7 @@ p=T.F(l,l,25)
 o=C.c_.h(0,200)
 n=t.t
 m=t.X
-return E.bB(new T.G(C.cs,T.a7(H.b([T.K(H.b([s,r,q,p,A.rP(C.c_.h(0,200),100,"Create",new S.aWN(),C.x,30,o,12,80)],n),C.j,C.B,C.i,l),T.F(l,40,l),M.v(l,new L.Ke('<!DOCTYPE html>\n<html>\n<head>\n<title>Page Title</title>\n</head>\n<body>\n<iframe src="https://github.com/" width="450" height="200" frameborder="0"></iframe>\n</body>\n</html>\n',!0,P.P(["Authorization","Bearer eyJrIjoiY09KaWU1N0xsQmFjRzIzSU9QSlp5NDR4TlBVNmRzQmQiLCJuIjoidGVzdCIsImlkIjoxfQ==","Content-Security-Policy","frame-ancestors 'self' http://202.0.103.164:3000/","X-Frame-Options","ALLOW-FROM http://202.0.103.164:8085/"],m,m),new S.aWO(),l),C.e,l,l,l,l,800,l,l,l,l,l,800)],n),C.j,C.l,C.i),l),l,C.o,l,l,!1,C.r)}}
+return E.bB(new T.G(C.cs,T.a7(H.b([T.K(H.b([s,r,q,p,A.rP(C.c_.h(0,200),100,"Create",new S.aWN(),C.x,30,o,12,80)],n),C.j,C.B,C.i,l),T.F(l,40,l),M.v(l,new L.Ke('<!DOCTYPE html>\n<html>\n<head>\n<title>Page Title</title>\n</head>\n<body>\n<iframe src="http://202.0.103.164:3000/d-solo/8KOq8xg7z/battery-pannel?orgId=1&from=1624359015241&to=1624380615241&panelId=2" width="450" height="200" frameborder="0"></iframe>\n</body>\n</html>\n',!0,P.P(["Authorization","Bearer eyJrIjoiY09KaWU1N0xsQmFjRzIzSU9QSlp5NDR4TlBVNmRzQmQiLCJuIjoidGVzdCIsImlkIjoxfQ==","Content-Security-Policy","frame-ancestors 'self' http://202.0.103.164:3000/","X-Frame-Options","ALLOW-FROM http://202.0.103.164:8085/"],m,m),new S.aWO(),l),C.e,l,l,l,l,800,l,l,l,l,l,800)],n),C.j,C.l,C.i),l),l,C.o,l,l,!1,C.r)}}
 S.aWL.prototype={
 $0:function(){return K.awu()},
 $C:"$0",
